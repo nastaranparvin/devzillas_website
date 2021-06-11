@@ -407,6 +407,10 @@ font-weight: 900;
 color:#fff;
 }
 
+#logo_text {
+margin-top: 5px;
+margin-left: -23px;
+}
 
 
 .nim-menu.navbar-default .navbar-nav > li > a {
@@ -993,3 +997,10 @@ font-family: 'Roboto Slab', serif;
     100% { opacity: 0; }
 }
 
+.logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
