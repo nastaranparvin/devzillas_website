@@ -1004,3 +1004,7 @@ font-family: 'Roboto Slab', serif;
     overflow: hidden;
     margin-top: -6px;
 }
+#logo-and-text {
+    display: flex;
+    align-items: center;
+}
